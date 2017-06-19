@@ -1,0 +1,10 @@
+Here is how to upload changes to source tree
+
+1. Go to the "VCS" tab and click "Commit Changes" or do 'ctrl + K'
+2. Type in Description of what you are uploading (name and date are not need, they are automatically saved)
+3. Go down to the bottom where it says commit and hover over it, then click "commit and push"
+4. If a window pops up saying there are some warnings click "commit"
+5. Another window will pop up and click Push
+
+
+If you do not click "commit and push" in step 3 then go and push go to source tree and at the top click the "push" button

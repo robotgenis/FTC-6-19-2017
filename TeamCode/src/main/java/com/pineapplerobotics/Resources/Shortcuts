@@ -1,0 +1,10 @@
+Here are the most basic and important shortcuts that you should know
+
+alt + enter-Shows fixes to an error
+ctrl + c-Copies
+ctrl + v-Pastes
+ctrl + d-duplicate what line you are on to the next line or duplicates what is highlighted right next to it
+ctrl + alt + o-Organizes Imports and delete unused ones
+ctrl + alt + l-Formats code
+ctrl + alt + shift + t-Brings up refracting menu
+ctrl + k-Shows window to commit code
